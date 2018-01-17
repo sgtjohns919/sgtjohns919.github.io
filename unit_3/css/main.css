@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(13, 226, 208);
+}
+
+h1,h3, p {
+    color: rgb(172, 6, 20);
+}
+
+h3 {
+   font-style: italic;
+   text-decoration: underline;
+}
+
+ul {
+	font-size: x-large;  
+	font-weight: bold;
+}
